@@ -123,3 +123,4 @@ void Add_New_customer()
     fclose(fptr);
     fclose(fptr1);
 }
+//dushyants code starts from here
