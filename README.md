@@ -1,3 +1,3 @@
-Thi is Dummy Project
+This is Dummy Project
 <br>
 Ignore this
